@@ -1,23 +1,23 @@
 # Sobiya Siddique — Portfolio Website
 
-A responsive personal portfolio built with HTML, CSS and JavaScript.
+A responsive personal portfolio for a BSc Information Technology student.
 
 ## Files
-- `index.html` — page structure and content
-- `style.css` — responsive styling
-- `script.js` — mobile navigation and current footer year
+- `index.html` — page content
+- `style.css` — styling and responsive layout
+- `script.js` — mobile navigation and footer year
 
-## Before publishing
-1. Open `index.html`.
-2. Replace `YOUR_EMAIL@example.com` with your preferred email address.
-3. Replace `YOUR_LINKEDIN_URL` with your LinkedIn profile URL (or remove that contact row if you prefer).
-4. Review the project descriptions and skills to make sure they accurately reflect your experience.
+## Run locally
+Open `index.html` in a browser.
 
 ## Publish with GitHub Pages
-1. Upload `index.html`, `style.css`, `script.js` and `README.md` to the **root** of a public GitHub repository.
-2. In the repository, open **Settings → Pages**.
+1. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the root of your GitHub repository.
+2. Open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select branch `main` and folder `/ (root)`, then Save.
-5. Wait for deployment, then use the URL shown in Settings → Pages.
+4. Select branch `main` and folder `/ (root)`, then save.
 
-The homepage file must be named `index.html` and must be in the publishing folder's root.
+## Contact links
+The email link opens a Gmail compose window. The LinkedIn link points to the profile URL supplied for this portfolio.
+
+## Accuracy note
+The skills are intentionally described as foundational or beginner-level. The projects section lists the two academic projects: an e-commerce website and a Python game. Add live demos or repository links only when the relevant project files are ready to share.
